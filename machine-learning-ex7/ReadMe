@@ -1,0 +1,5 @@
+                Programming exercise 7: K-means clustering and Principal Component Analysis
+                
+                
+In this exercise I've implemented K-means clustering to compress an image, and used Principal COmponent Analysis to
+find a low-dimensional representation of face images.
