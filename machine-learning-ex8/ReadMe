@@ -1,0 +1,6 @@
+                Programming Exercise 8: Anomaly Detection and 
+                                        Recommender Systems
+
+
+In the first part anomaly detection algorithm is implemented to detect failing servers.
+In the second part collaborative filtering is used to build a recommender system for movies.
